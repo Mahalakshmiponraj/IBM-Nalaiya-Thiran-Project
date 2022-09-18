@@ -4,8 +4,11 @@ Car Resale value Prediction
 Project title : CAR RESALE VALUE PREDICTION
 
 Team Lead : Lavanya
+
 M1 Lead : Nithyashree
+
 M2 Lead : P Mahalakshmi
+
 M3 Lead : Karan Raj
 
 ●In recent years, the second-hand car industry in our country has developing rapidly.
