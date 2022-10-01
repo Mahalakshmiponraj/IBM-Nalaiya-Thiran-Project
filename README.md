@@ -1,8 +1,6 @@
 # IBM-Project-42472-1660663996
 Car Resale value Prediction
 
-Project title : CAR RESALE VALUE PREDICTION
-
 Team Lead : Lavanya
 
 M1 Lead : Nithyashree
